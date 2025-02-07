@@ -1,5 +1,7 @@
 # Python GUI
 
+![Screenshot 2024-09-29 110117](https://github.com/user-attachments/assets/6fa93b57-b941-446a-996f-649ced8e8788)
+
 ## Purpose
 
 The Python application provides a user‑friendly, desktop‑based interface that lets the user:
