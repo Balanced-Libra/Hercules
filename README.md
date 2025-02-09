@@ -31,7 +31,8 @@ Below is a **screenshot** of the Hercules control interface:
 ![Screenshot 2025-02-09 124222](https://github.com/user-attachments/assets/bbb4453c-3c38-47f0-80f6-7fc9eacb08d1)
 
 🔹 **Watch Hercules in action:**
-[- 🎬 [Demo Video 1](#) [https://github.com/user-attachments/assets/95682995-5659-4caf-a7d2-113750e83053]
+
+https://github.com/user-attachments/assets/95682995-5659-4caf-a7d2-113750e83053
 
 ---
 
