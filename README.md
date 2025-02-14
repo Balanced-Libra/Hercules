@@ -68,9 +68,9 @@ Feel free to explore the repository, test out the software, and modify the code 
 
 If you have any questions, feel free to reach out!
 
-📧 Email: **[YourEmail@example.com](mailto:YourEmail@example.com)**  
-🐙 GitHub: **[@YourGitHubUsername](https://github.com/YourGitHubUsername)**  
-🌐 Website: **[yourwebsite.com](https://yourwebsite.com)**  
+📧 Email:    guyjamesjulius@gmail.com
+🐙 GitHub:   www.github.com/Balanced-Libra
+🌐 LinkedIn: www.linkedin.com/in/julius-guy-james 
 
 ---
 
