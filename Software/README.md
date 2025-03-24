@@ -1,6 +1,9 @@
 # Python GUI
 
-![Screenshot 2024-09-29 110117](https://github.com/user-attachments/assets/6fa93b57-b941-446a-996f-649ced8e8788)
+![Screenshot 2025-03-24 142817](https://github.com/user-attachments/assets/5964ac44-b88a-4fe5-9d16-0f100365a392)
+
+![Screenshot 2025-03-24 142833](https://github.com/user-attachments/assets/afbfee3d-f54c-4344-9fce-e1c6047b6ff9)
+
 
 ## Purpose
 
